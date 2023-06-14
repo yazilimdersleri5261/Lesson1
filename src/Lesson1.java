@@ -7,7 +7,7 @@ public class Lesson1 {
 	        int birinciNot;
 	        int ikinciNot;
 	        float ortalama;
-	        //test
+	        
 	        String ilkMesaj = "Hoşgeldiz.";
 	        String birinciNotMesaji = "Lütfen 1. notunuzu giriniz : ";
 	        String ikinciNotMesaji = "Lütfen 2. notunuzu giriniz : ";
